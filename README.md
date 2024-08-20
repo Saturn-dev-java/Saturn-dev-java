@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my discord is perfect to reach me: nagito0o0
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i start learning java script in school
+- ⚡ Fun fact: i started learning java script in school
 
 <!---
 Saturn-dev-java/Saturn-dev-java is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
